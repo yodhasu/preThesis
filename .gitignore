@@ -144,6 +144,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# model file
+model/
+
 # Spyder project settings
 .spyderproject
 .spyproject
