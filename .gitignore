@@ -147,6 +147,15 @@ venv.bak/
 # model file
 model/
 
+# dataset file
+dataset/
+
+qwen3-8b-qlora/
+
+Mistral-7B-merged/
+
+mistralai
+
 # Spyder project settings
 .spyderproject
 .spyproject
